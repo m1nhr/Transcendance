@@ -6,6 +6,11 @@ Ce projet consiste à créer un site web pour participer à une compétition
 
 Fait a 4, nous avons tous pris en main differents aspects du projet afin de le mener jusqu'au bout.
 
+![transcendence_sshot (1)](https://github.com/user-attachments/assets/935e9060-70ed-453e-98ca-2d000d4524f5)
+
+![gif_trans](https://github.com/user-attachments/assets/18d9a1ac-0098-4022-a532-3af038c2d141)
+
+
 ## DEV USE
 
 Pour un acces classique : **make**

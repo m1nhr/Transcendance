@@ -8,7 +8,7 @@ Fait a 4, nous avons tous pris en main differents aspects du projet afin de le m
 
 ![transcendence_sshot (1)](https://github.com/user-attachments/assets/935e9060-70ed-453e-98ca-2d000d4524f5)
 
-![gif_trans](https://github.com/user-attachments/assets/18d9a1ac-0098-4022-a532-3af038c2d141)
+![finigif](https://github.com/user-attachments/assets/be29ce7e-bcf5-4482-a01c-b63b2e613d87)
 
 
 ## DEV USE
